@@ -1,5 +1,7 @@
 # Movie Recommender System using PySpark
 
+This project utilzies the [MovieLens](https://grouplens.org/datasets/movielens/) dataset, provided by GroupLens.
+
 This repository contains a Movie Recommender System project imlemented used Apache Spark, focusing on collaborative filtering. The system leverages the Alternating Least Squares (ALS) algorithm to recommend movies based on user preferences and ratings. Data analysis and visualizations are provided using Spark SQL and Matplotlib to explore trends in movie ratings, genres, and release years.
 
 ## Project Overview
